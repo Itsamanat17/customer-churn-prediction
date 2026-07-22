@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.matplotlib/
+data/*.csv
+models/*.pkl
+models/*.json
+assets/*.png
+assets/*.jpg
+assets/*.jpeg
+

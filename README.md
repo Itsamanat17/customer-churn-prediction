@@ -19,7 +19,7 @@ customer-churn-prediction/
 ## Setup
 
 ```bash
-cd /home/abhinavgomra/project/customer-churn-prediction
+cd /home/project/customer-churn-prediction
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 Or with Conda:
 
 ```bash
-cd /home/abhinavgomra/project/customer-churn-prediction
+cd /home/project/customer-churn-prediction
 conda env create -f environment.yml
 conda activate customer-churn-prediction
 ```
